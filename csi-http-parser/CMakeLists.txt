@@ -1,0 +1,1 @@
+ADD_LIBRARY(csi-http-parser STATIC ${CMAKE_SOURCE_DIR}/http-parser/http_parser.h ${CMAKE_SOURCE_DIR}/http-parser/http_parser.c)
